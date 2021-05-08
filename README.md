@@ -1,9 +1,6 @@
 # AR-mini-projects
 
 
-
-In every Task keep output Screen shots as well as APKs also
-
 Task-1: Take any image what you want If i scan that image should display 3 cubes rotate 
 
 Task-2: Take Fish image(Download image in down) if I scan that image should display 3D Animated fish
@@ -22,5 +19,7 @@ Task6: VR Face Game
 
 
 
+
+Link for APk files:https://drive.google.com/drive/folders/1Ubfe-KNDBG-kERIzLfr6a1Eu2ll9FrBt?usp=sharing
 Above files are apk files.
 after downloading apks in your mobile- scan the pics given in every task folder. You will be able to see a 3d image (like the screenshot in same folder) 
