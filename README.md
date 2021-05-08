@@ -1,4 +1,4 @@
-# AR-mini-projects
+# AR-VR-mini-projects
 
 
 Task-1: Take any image what you want If i scan that image should display 3 cubes rotate 
